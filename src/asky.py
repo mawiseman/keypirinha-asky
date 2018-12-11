@@ -95,9 +95,9 @@ class asky(kp.Plugin):
                     hit_hint=kp.ItemHitHint.IGNORE
                 )
 
-                self.asky.append(suggestion)
+                self.askys.append(suggestion)
 
-        return self.asky
+        return self.askys
 
     def get_cache_path(self):
         cache_path = self.get_package_cache_path(True)
