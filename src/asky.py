@@ -13,7 +13,7 @@ class asky(kp.Plugin):
     This plugin was based on: https://github.com/Fuhrmann/keypirinha-gitmoji
     """
 
-    ASKY_URL = "https://api.asky.io/art"
+    ASKY_URL = "https://asky.io/api/v1/art"
     DAYS_KEEP_CACHE = 7
     ITEMCAT = kp.ItemCategory.USER_BASE + 1
 

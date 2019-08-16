@@ -35,6 +35,9 @@ Open Keypirinha and type 'asky'. Once the suggestion appears press TAB or ENTER 
 
 ## Change Log
 
+### v1.1
+* Update api url
+
 ### v1.0
 * Released
 
